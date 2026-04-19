@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """
 Daily Briefing Generator — 100% gratuito
-Groq (Llama 3.3 70B) + gTTS + GitHub Pages
+Groq (Llama 3.3 70B) + Edge TTS + GitHub Pages
 """
 
 import os, re, json, requests, feedparser
 from datetime import datetime
 from pathlib import Path
-from gtts import gTTS
 
 PODCAST_TITLE       = "Meu Briefing Diário"
 PODCAST_DESCRIPTION = "Resumo personalizado de tech e notícias do mundo, gerado com IA."
@@ -83,8 +82,21 @@ def summarize_with_groq(articles):
     return r.json()["choices"][0]["message"]["content"]
 
 
+# Voz disponíveis em pt-BR (escolha a sua favorita):
+#   pt-BR-FranciscaNeural  — feminina, natural e calorosa     ← padrão
+#   pt-BR-AntonioNeural    — masculina, séria e clara
+#   pt-BR-ThalitaNeural    — feminina, jovem e descontraída
+TTS_VOICE = "pt-BR-FranciscaNeural"
+
 def text_to_speech(text, output_path):
-    gTTS(text=text, lang="pt", slow=False).save(str(output_path))
+    import asyncio
+    import edge_tts
+
+    async def _synthesize():
+        communicate = edge_tts.Communicate(text, TTS_VOICE)
+        await communicate.save(str(output_path))
+
+    asyncio.run(_synthesize())
 
 
 def create_github_release(date_str, audio_path):
@@ -147,7 +159,7 @@ def main():
     script = summarize_with_groq(articles)
     print(f"   → {len(script)} caracteres")
 
-    print("🎙️  Convertendo para áudio (gTTS — gratuito)...")
+    print("🎙️  Convertendo para áudio com Edge TTS (Microsoft Neural)...")
     text_to_speech(script, audio_path)
     print(f"   → {audio_path.name} ({audio_path.stat().st_size/1024:.0f} KB)")
 
