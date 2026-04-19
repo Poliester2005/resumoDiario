@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Meu Briefing Diário</title>
     <description>Resumo personalizado de tech e notícias do mundo, gerado com IA.</description>
+    <link>https://Poliester2005.github.io/resumoDiario</link>
     <language>pt-BR</language>
+    <itunes:author>Automatizado com Groq + Llama</itunes:author>
+    <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title><![CDATA[Briefing 2026-04-19]]></title>
+      <description><![CDATA[Bom dia, pessoal, é domingo, 19 de abril de 2026, e é um prazer enorme ter vocês aqui no nosso podcast, onde a tecnologia e o mundo se encontram de uma forma super interessante e descontraída, então vamos começar com as notícias mais quentes do mundo da tecnologia, o nosso bloco Tech, que é sempre m…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-19/episode-2026-04-19.mp3" length="2498304" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-19/episode-2026-04-19.mp3</guid>
+      <pubDate>2026-04-19</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
   </channel>
 </rss>
