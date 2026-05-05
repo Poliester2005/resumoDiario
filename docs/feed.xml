@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-05-05]]></title>
+      <description><![CDATA[Bom dia, pessoal, é terça-feira, 05 de maio de 2026, e eu estou aqui para trazer as notícias mais quentes do mundo da tecnologia e do que está acontecendo ao redor do planeta, então vamos começar com o que está acontecendo no mundo da tecnologia, onde o Google Chrome está instalando um modelo de int…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-05/episode-2026-05-05.mp3" length="858240" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-05/episode-2026-05-05.mp3</guid>
+      <pubDate>2026-05-05</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-05-04]]></title>
       <description><![CDATA[Bom dia, pessoal, é segunda-feira, 04 de maio de 2026, e aqui estou eu, seu apresentador de podcast, pronto para começar mais uma semana cheia de notícias emocionais e informativas. Hoje, vamos falar sobre o que está acontecendo no mundo da tecnologia e no mundo em geral, então preparem-se para uma …]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-04/episode-2026-05-04.mp3" length="784656" type="audio/mpeg"/>
