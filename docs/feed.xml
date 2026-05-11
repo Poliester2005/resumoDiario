@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-05-11]]></title>
+      <description><![CDATA[Bom dia, pessoal, é segunda-feira, 11 de maio de 2026, e estamos de volta com mais notícias incríveis para vocês. Vamos começar com o nosso bloco de tecnologia, porque é onde acontece tudo, não é mesmo? Então, vocês sabem que a engenharia de software está morrendo, segundo um artigo que li recenteme…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-11/episode-2026-05-11.mp3" length="880848" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-11/episode-2026-05-11.mp3</guid>
+      <pubDate>2026-05-11</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-05-08]]></title>
       <description><![CDATA[Que sexta-feira incrível, pessoal, é um prazer enorme estar aqui com vocês novamente, trazendo as últimas notícias do mundo da tecnologia e do planeta. Vamos começar com o que está acontecendo no mundo da tech, porque, como sempre, tem muita coisa interessante acontecendo por aí.   A linguagem de pr…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-08/episode-2026-05-08.mp3" length="835344" type="audio/mpeg"/>
