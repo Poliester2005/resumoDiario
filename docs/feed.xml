@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-06-03]]></title>
+      <description><![CDATA[Que dia incrível, queridos ouvintes, é quarta-feira, 03 de junho de 2026, e estou aqui para trazer as últimas notícias do mundo da tecnologia e do planeta. Vamos começar com o que está acontecendo no mundo da tecnologia, porque, como sempre, há muita coisa rolando. A Shopify está enfrentando problem…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-03/episode-2026-06-03.mp3" length="827856" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-03/episode-2026-06-03.mp3</guid>
+      <pubDate>2026-06-03</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-06-02]]></title>
       <description><![CDATA[Bom dia, pessoal, é terça-feira, 02 de junho de 2026, e estamos aqui para trazer as principais notícias do mundo da tecnologia e do planeta. Vamos começar com o bloco Tech, porque é onde tudo começa, não é mesmo?   Primeiramente, vamos falar sobre a ZeroDrift, uma empresa que levantou 10 milhões de …]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-02/episode-2026-06-02.mp3" length="1086192" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-22/episode-2026-04-22.mp3" length="933840" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-22/episode-2026-04-22.mp3</guid>
       <pubDate>2026-04-22</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-04-21]]></title>
-      <description><![CDATA[Que terça-feira incrível, pessoal, espero que vocês estejam tendo um dia fantástico, porque eu estou muito animado para compartilhar todas as notícias que aconteceram nas últimas 24 horas, então vamos lá, começando com o bloco de tecnologia, que é sempre uma das minhas partes favoritas do podcast, p…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-21/episode-2026-04-21.mp3" length="1643904" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-21/episode-2026-04-21.mp3</guid>
-      <pubDate>2026-04-21</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
