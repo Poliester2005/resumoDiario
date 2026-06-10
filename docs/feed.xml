@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-06-10]]></title>
+      <description><![CDATA[Que dia incrível, pessoal, é quarta-feira, 10 de junho de 2026, e estamos aqui para trazer as últimas notícias do mundo da tecnologia e do que está acontecendo pelo mundo. Vamos começar com o que está rolando no universo tech, porque, como sempre, tem muito o que falar.   Primeiramente, vamos falar …]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-10/episode-2026-06-10.mp3" length="910656" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-10/episode-2026-06-10.mp3</guid>
+      <pubDate>2026-06-10</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-06-09]]></title>
       <description><![CDATA[Bom dia, pessoal, é terça-feira, 09 de junho de 2026, e eu estou aqui para trazer as principais notícias do mundo da tecnologia e do que está acontecendo no mundo. Vamos começar com o que está rolando no universo tech, porque é sempre emocionante ver o que está por vir. Temos uma notícia interessant…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-09/episode-2026-06-09.mp3" length="805680" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-29/episode-2026-04-29.mp3" length="847296" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-29/episode-2026-04-29.mp3</guid>
       <pubDate>2026-04-29</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-04-28]]></title>
-      <description><![CDATA[Bom dia, pessoal, é terça-feira, 28 de abril de 2026, e é um prazer enorme estar aqui com vocês novamente no nosso briefing diário. Vamos começar com as notícias do mundo da tecnologia, porque é lá que as coisas estão acontecendo de forma incrível. Primeiro, vamos falar sobre a inteligência artifici…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-28/episode-2026-04-28.mp3" length="1193760" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-04-28/episode-2026-04-28.mp3</guid>
-      <pubDate>2026-04-28</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
