@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-06-24]]></title>
+      <description><![CDATA[Que dia incrível, quarta-feira, 24 de junho de 2026, galera, espero que vocês estejam todos bem, porque hoje vamos ter um briefing cheio de notícias interessantes, tanto no mundo da tecnologia quanto no mundo em geral, então vamos lá, começando com o que está acontecendo no universo tech, temos uma …]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-24/episode-2026-06-24.mp3" length="751248" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-24/episode-2026-06-24.mp3</guid>
+      <pubDate>2026-06-24</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-06-23]]></title>
       <description><![CDATA[Que dia incrível, pessoal, é terça-feira, 23 de junho de 2026, e estamos aqui para trazer as notícias mais quentes do mundo da tecnologia e do que está acontecendo ao redor do planeta. Vamos começar com o que está acontecendo no mundo da tecnologia, porque é sempre emocionante ver como as coisas est…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-23/episode-2026-06-23.mp3" length="1137888" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-13/episode-2026-05-13.mp3" length="1002384" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-13/episode-2026-05-13.mp3</guid>
       <pubDate>2026-05-13</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-05-12]]></title>
-      <description><![CDATA[Terça-feira, 12 de maio de 2026, que dia incrível para começar a semana, não é? Eu estou aqui para trazer as notícias mais quentes e interessantes do mundo da tecnologia e do que está acontecendo ao redor do mundo. Vamos começar com o bloco Tech, onde temos algumas notícias muito interessantes.   A …]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-12/episode-2026-05-12.mp3" length="913392" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-12/episode-2026-05-12.mp3</guid>
-      <pubDate>2026-05-12</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
