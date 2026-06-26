@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-06-26]]></title>
+      <description><![CDATA[Bom dia, pessoal, é sexta-feira, 26 de junho de 2026, e estamos aqui para começar o fim de semana com um briefing em áudio cheio de notícias interessantes. Vamos começar com o bloco Tech, onde temos muitas novidades emocionais. Primeiramente, queremos falar sobre a importância do open source, que é …]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-26/episode-2026-06-26.mp3" length="785520" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-26/episode-2026-06-26.mp3</guid>
+      <pubDate>2026-06-26</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-06-25]]></title>
       <description><![CDATA[Que dia incrível, pessoal, é quinta-feira, 25 de junho de 2026, e estou aqui para trazer as últimas notícias do mundo da tecnologia e do que está acontecendo ao redor do planeta, então vamos lá, sem mais delongas, vamos começar com as notícias de tecnologia, o bloco Tech, onde temos várias notícias …]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-25/episode-2026-06-25.mp3" length="1357632" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-15/episode-2026-05-15.mp3" length="771552" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-15/episode-2026-05-15.mp3</guid>
       <pubDate>2026-05-15</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-05-14]]></title>
-      <description><![CDATA[Que dia incrível, quinta-feira, 14 de maio de 2026, e eu estou aqui para trazer as notícias mais quentes do mundo da tecnologia e do que está acontecendo no mundo. Vamos começar com o bloco Tech, onde temos uma série de notícias interessantes. Primeiramente, temos a notícia de que um desenvolvedor c…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-14/episode-2026-05-14.mp3" length="979200" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-14/episode-2026-05-14.mp3</guid>
-      <pubDate>2026-05-14</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
