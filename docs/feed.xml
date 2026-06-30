@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-06-30]]></title>
+      <description><![CDATA[Que terça-feira incrível, pessoal! É um prazer enorme estar aqui com vocês hoje, trazendo as últimas notícias do mundo da tecnologia e do planeta. Vamos começar com o que está acontecendo no universo tech, porque, como sempre, há muita coisa interessante acontecendo.  Primeiramente, vamos falar sobr…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-30/episode-2026-06-30.mp3" length="1072512" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-30/episode-2026-06-30.mp3</guid>
+      <pubDate>2026-06-30</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-06-29]]></title>
       <description><![CDATA[Bom dia, pessoal, sejam bem-vindos ao nosso briefing de notícias desta segunda-feira, 29 de junho de 2026. Estou muito animado para compartilhar com vocês as principais notícias do dia, então vamos direto ao ponto.  Primeiramente, vamos falar um pouco sobre o que está acontecendo no mundo da tecnolo…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-29/episode-2026-06-29.mp3" length="908352" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-19/episode-2026-05-19.mp3" length="907776" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-19/episode-2026-05-19.mp3</guid>
       <pubDate>2026-05-19</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-05-18]]></title>
-      <description><![CDATA[Bom dia a todos, sejam bem-vindos ao nosso podcast, é segunda-feira, 18 de maio de 2026, e estamos aqui para trazer as principais notícias do mundo da tecnologia e do mundo em geral, então vamos começar com as notícias de tecnologia, o que está acontecendo no mundo da inovação e da informática, vamo…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-18/episode-2026-05-18.mp3" length="867312" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-18/episode-2026-05-18.mp3</guid>
-      <pubDate>2026-05-18</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
