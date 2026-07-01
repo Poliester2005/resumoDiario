@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-07-01]]></title>
+      <description><![CDATA[Bom dia, pessoal, é quarta-feira, 01 de julho de 2026, e estamos aqui com mais um briefing cheio de notícias interessantes para vocês. Vamos começar com o que está acontecendo no mundo da tecnologia. Uma notícia que chamou a atenção é que um tribunal sueco decidiu que o Google deve pagar 1,5 bilhão …]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-01/episode-2026-07-01.mp3" length="887328" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-01/episode-2026-07-01.mp3</guid>
+      <pubDate>2026-07-01</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-06-30]]></title>
       <description><![CDATA[Que terça-feira incrível, pessoal! É um prazer enorme estar aqui com vocês hoje, trazendo as últimas notícias do mundo da tecnologia e do planeta. Vamos começar com o que está acontecendo no universo tech, porque, como sempre, há muita coisa interessante acontecendo.  Primeiramente, vamos falar sobr…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-30/episode-2026-06-30.mp3" length="1072512" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-20/episode-2026-05-20.mp3" length="1088208" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-20/episode-2026-05-20.mp3</guid>
       <pubDate>2026-05-20</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-05-19]]></title>
-      <description><![CDATA[Bom dia, pessoal, é terça-feira, 19 de maio de 2026, e estou aqui para trazer as principais notícias do dia. Vamos começar com o bloco de tecnologia, onde temos várias notícias interessantes. A Apple acaba de anunciar novas funcionalidades de acessibilidade impulsionadas pela inteligência artificial…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-19/episode-2026-05-19.mp3" length="907776" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-19/episode-2026-05-19.mp3</guid>
-      <pubDate>2026-05-19</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
