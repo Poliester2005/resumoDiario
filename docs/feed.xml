@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-07-03]]></title>
+      <description><![CDATA[Que sexta-feira incrível, pessoal, estou tão animado em estar aqui com vocês hoje, dia 3 de julho de 2026, para trazer as últimas notícias do mundo da tecnologia e do que está acontecendo ao redor do globo, então vamos direto ao ponto, começando com o bloco Tech, onde temos uma série de notícias int…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-03/episode-2026-07-03.mp3" length="964080" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-03/episode-2026-07-03.mp3</guid>
+      <pubDate>2026-07-03</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-07-02]]></title>
       <description><![CDATA[Que dia lindo, pessoal, é quinta-feira, 02 de julho de 2026, e estamos aqui para trazer as últimas notícias do mundo da tecnologia e do que está acontecendo ao redor do planeta. Vamos começar com o que está acontecendo no mundo da tecnologia. A Meta está construindo um negócio de nuvem para vender c…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-02/episode-2026-07-02.mp3" length="1106208" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-22/episode-2026-05-22.mp3" length="1177056" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-22/episode-2026-05-22.mp3</guid>
       <pubDate>2026-05-22</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-05-21]]></title>
-      <description><![CDATA[Que dia incrível, quinta-feira, 21 de maio de 2026, e estamos aqui para começar o nosso briefing de notícias, trazendo tudo o que você precisa saber sobre o que está acontecendo no mundo da tecnologia e muito mais. Então, vamos começar com o bloco Tech, que está sempre em constante evolução.  Primei…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-21/episode-2026-05-21.mp3" length="1125792" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-21/episode-2026-05-21.mp3</guid>
-      <pubDate>2026-05-21</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
