@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-07-08]]></title>
+      <description><![CDATA[Que dia incrível, pessoal, é quarta-feira, 08 de julho de 2026, e estou aqui para trazer as notícias mais quentes do mundo da tecnologia e do que está acontecendo ao redor do planeta. Vamos começar com o que está bombando no mundo da tech, onde um artigo chamou a atenção sobre um script em bash que …]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-08/episode-2026-07-08.mp3" length="851184" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-08/episode-2026-07-08.mp3</guid>
+      <pubDate>2026-07-08</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-07-07]]></title>
       <description><![CDATA[Bom dia, pessoal, sejam bem-vindos ao nosso podcast de terça-feira, 07 de julho de 2026, um dia perfeito para estar por dentro das últimas notícias e tendências em tecnologia e no mundo. Vamos começar com o que está acontecendo no mundo da tecnologia.   Primeiramente, falando sobre empregos, a 9 Mot…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-07/episode-2026-07-07.mp3" length="1080720" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-28/episode-2026-05-28.mp3" length="1042848" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-28/episode-2026-05-28.mp3</guid>
       <pubDate>2026-05-28</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-05-27]]></title>
-      <description><![CDATA[Que dia incrível, pessoal, é quarta-feira, 27 de maio de 2026, e estou aqui para trazer todas as notícias mais quentes do mundo da tecnologia e do que está acontecendo lá fora, então preparem-se para mais um briefing cheio de novidades.  Vamos começar com o mundo da tecnologia, que nunca para de sur…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-27/episode-2026-05-27.mp3" length="1102320" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-05-27/episode-2026-05-27.mp3</guid>
-      <pubDate>2026-05-27</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
