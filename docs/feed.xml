@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-07-17]]></title>
+      <description><![CDATA[Que sexta-feira incrível, pessoal! É seu apresentador de podcast brasileiro aqui, e estou muito animado para compartilhar com vocês as principais notícias do dia. Vamos começar pelo bloco Tech, que está sempre cheio de surpresas. Você sabia que o Commodore 64, um dos primeiros computadores pessoais,…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-17/episode-2026-07-17.mp3" length="732240" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-17/episode-2026-07-17.mp3</guid>
+      <pubDate>2026-07-17</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-07-16]]></title>
       <description><![CDATA[Quinta-feira, 16 de julho de 2026, que dia incrível, pessoal, é um prazer enorme estar aqui com vocês novamente, trazendo as últimas notícias e atualizações do mundo da tecnologia e do que está acontecendo ao redor do planeta, então vamos começar com o que está bombando no universo tech, porque é um…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-16/episode-2026-07-16.mp3" length="1026000" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-08/episode-2026-06-08.mp3" length="1063584" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-08/episode-2026-06-08.mp3</guid>
       <pubDate>2026-06-08</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-06-05]]></title>
-      <description><![CDATA[Que sexta-feira incrível, pessoal, estou aqui para trazer as últimas notícias do mundo da tecnologia e do que está acontecendo ao redor do planeta, então vamos começar com o que está acontecendo no mundo da tech, porque sempre tem algo novo e interessante acontecendo por aí, como por exemplo, a Nang…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-05/episode-2026-06-05.mp3" length="1027584" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-05/episode-2026-06-05.mp3</guid>
-      <pubDate>2026-06-05</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
