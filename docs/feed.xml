@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-07-31]]></title>
+      <description><![CDATA[Bom dia, pessoal, e que sexta-feira incrível nós temos hoje, 31 de julho de 2026, o dia perfeito para começar o fim de semana com as notícias mais quentes do mundo da tecnologia e do que está acontecendo ao redor do globo. Vamos direto para o nosso bloco de tecnologia, que está fervendo com novidade…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-31/episode-2026-07-31.mp3" length="1172016" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-31/episode-2026-07-31.mp3</guid>
+      <pubDate>2026-07-31</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-07-30]]></title>
       <description><![CDATA[Que quinta-feira incrível, pessoal, é um prazer estar aqui com vocês novamente, trazendo as últimas notícias do mundo da tecnologia e do que está acontecendo ao redor do planeta. Vamos começar com o que está acontecendo no mundo da tech, porque isso é sempre emocionante. Temos várias notícias intere…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-30/episode-2026-07-30.mp3" length="1116288" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-22/episode-2026-06-22.mp3" length="987696" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-22/episode-2026-06-22.mp3</guid>
       <pubDate>2026-06-22</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-06-19]]></title>
-      <description><![CDATA[Que sexta-feira incrível, galera, estou aqui para trazer as últimas notícias do mundo da tecnologia e do que está acontecendo no mundo, então vamos começar com o que está rolando no universo tech, onde vários países estão movendo para restringir o acesso de crianças às redes sociais, é um tema que e…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-19/episode-2026-06-19.mp3" length="952992" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-19/episode-2026-06-19.mp3</guid>
-      <pubDate>2026-06-19</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
