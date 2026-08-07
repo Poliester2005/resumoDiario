@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-08-07",
+    "title": "Briefing 2026-08-07",
+    "description": "Bom dia, pessoal, sejam bem-vindos ao nosso briefing de notícias desta sexta-feira, 07 de agosto de 2026, um dia que promete ser repleto de atualizações interessantes em ambos os mundos, o da tecnologia e o das notícias globais. Vamos começar com o que está acontecendo no mundo da tecnologia, que nu…",
+    "url": "https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-07/episode-2026-08-07.mp3",
+    "size": 1092816,
+    "duration": "00:05:00"
+  },
+  {
     "date": "2026-08-06",
     "title": "Briefing 2026-08-06",
     "description": "Que quinta-feira incrível, pessoal! Estamos aqui para começar o dia com as notícias mais quentes do mundo da tecnologia e do que está acontecendo ao redor do planeta. Vamos direto para o bloco Tech, que está cheio de novidades interessantes. Primeiramente, temos uma notícia sobre o Django, um framew…",
@@ -229,14 +237,6 @@
     "description": "Bom dia, pessoal, sejam bem-vindos ao nosso briefing de notícias desta segunda-feira, 29 de junho de 2026. Estou muito animado para compartilhar com vocês as principais notícias do dia, então vamos direto ao ponto.  Primeiramente, vamos falar um pouco sobre o que está acontecendo no mundo da tecnolo…",
     "url": "https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-29/episode-2026-06-29.mp3",
     "size": 908352,
-    "duration": "00:05:00"
-  },
-  {
-    "date": "2026-06-26",
-    "title": "Briefing 2026-06-26",
-    "description": "Bom dia, pessoal, é sexta-feira, 26 de junho de 2026, e estamos aqui para começar o fim de semana com um briefing em áudio cheio de notícias interessantes. Vamos começar com o bloco Tech, onde temos muitas novidades emocionais. Primeiramente, queremos falar sobre a importância do open source, que é …",
-    "url": "https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-26/episode-2026-06-26.mp3",
-    "size": 785520,
     "duration": "00:05:00"
   }
 ]

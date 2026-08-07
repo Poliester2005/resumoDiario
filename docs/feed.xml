@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-08-07]]></title>
+      <description><![CDATA[Bom dia, pessoal, sejam bem-vindos ao nosso briefing de notícias desta sexta-feira, 07 de agosto de 2026, um dia que promete ser repleto de atualizações interessantes em ambos os mundos, o da tecnologia e o das notícias globais. Vamos começar com o que está acontecendo no mundo da tecnologia, que nu…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-07/episode-2026-08-07.mp3" length="1092816" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-07/episode-2026-08-07.mp3</guid>
+      <pubDate>2026-08-07</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-08-06]]></title>
       <description><![CDATA[Que quinta-feira incrível, pessoal! Estamos aqui para começar o dia com as notícias mais quentes do mundo da tecnologia e do que está acontecendo ao redor do planeta. Vamos direto para o bloco Tech, que está cheio de novidades interessantes. Primeiramente, temos uma notícia sobre o Django, um framew…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-06/episode-2026-08-06.mp3" length="1080720" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-29/episode-2026-06-29.mp3" length="908352" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-29/episode-2026-06-29.mp3</guid>
       <pubDate>2026-06-29</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-06-26]]></title>
-      <description><![CDATA[Bom dia, pessoal, é sexta-feira, 26 de junho de 2026, e estamos aqui para começar o fim de semana com um briefing em áudio cheio de notícias interessantes. Vamos começar com o bloco Tech, onde temos muitas novidades emocionais. Primeiramente, queremos falar sobre a importância do open source, que é …]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-26/episode-2026-06-26.mp3" length="785520" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-26/episode-2026-06-26.mp3</guid>
-      <pubDate>2026-06-26</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
