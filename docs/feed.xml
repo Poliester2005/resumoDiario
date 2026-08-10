@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-08-10]]></title>
+      <description><![CDATA[Bom dia, pessoal, sejam bem-vindos ao nosso briefing de segunda-feira, dia 10 de agosto de 2026, espero que vocês tenham passado um ótimo fim de semana e estejam prontos para começar a semana com muita energia e informações atualizadas. Vamos começar com o bloco de tecnologia, onde temos muitas notí…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-10/episode-2026-08-10.mp3" length="981936" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-10/episode-2026-08-10.mp3</guid>
+      <pubDate>2026-08-10</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-08-07]]></title>
       <description><![CDATA[Bom dia, pessoal, sejam bem-vindos ao nosso briefing de notícias desta sexta-feira, 07 de agosto de 2026, um dia que promete ser repleto de atualizações interessantes em ambos os mundos, o da tecnologia e o das notícias globais. Vamos começar com o que está acontecendo no mundo da tecnologia, que nu…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-07/episode-2026-08-07.mp3" length="1092816" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-30/episode-2026-06-30.mp3" length="1072512" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-30/episode-2026-06-30.mp3</guid>
       <pubDate>2026-06-30</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-06-29]]></title>
-      <description><![CDATA[Bom dia, pessoal, sejam bem-vindos ao nosso briefing de notícias desta segunda-feira, 29 de junho de 2026. Estou muito animado para compartilhar com vocês as principais notícias do dia, então vamos direto ao ponto.  Primeiramente, vamos falar um pouco sobre o que está acontecendo no mundo da tecnolo…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-29/episode-2026-06-29.mp3" length="908352" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-29/episode-2026-06-29.mp3</guid>
-      <pubDate>2026-06-29</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
