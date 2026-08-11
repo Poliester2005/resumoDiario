@@ -9,6 +9,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title><![CDATA[Briefing 2026-08-11]]></title>
+      <description><![CDATA[Bom dia, pessoal, é terça-feira, 11 de agosto de 2026, e eu estou aqui para trazer as principais notícias do dia para vocês. Vamos começar com o que está acontecendo no mundo da tecnologia. A França está prestes a banir ligações de telemarketing não solicitadas a partir de hoje, isso mesmo, pessoal,…]]></description>
+      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-11/episode-2026-08-11.mp3" length="845424" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-11/episode-2026-08-11.mp3</guid>
+      <pubDate>2026-08-11</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+    </item>
+    <item>
       <title><![CDATA[Briefing 2026-08-10]]></title>
       <description><![CDATA[Bom dia, pessoal, sejam bem-vindos ao nosso briefing de segunda-feira, dia 10 de agosto de 2026, espero que vocês tenham passado um ótimo fim de semana e estejam prontos para começar a semana com muita energia e informações atualizadas. Vamos começar com o bloco de tecnologia, onde temos muitas notí…]]></description>
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-08-10/episode-2026-08-10.mp3" length="981936" type="audio/mpeg"/>
@@ -238,14 +246,6 @@
       <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-01/episode-2026-07-01.mp3" length="887328" type="audio/mpeg"/>
       <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-07-01/episode-2026-07-01.mp3</guid>
       <pubDate>2026-07-01</pubDate>
-      <itunes:duration>00:05:00</itunes:duration>
-    </item>
-    <item>
-      <title><![CDATA[Briefing 2026-06-30]]></title>
-      <description><![CDATA[Que terça-feira incrível, pessoal! É um prazer enorme estar aqui com vocês hoje, trazendo as últimas notícias do mundo da tecnologia e do planeta. Vamos começar com o que está acontecendo no universo tech, porque, como sempre, há muita coisa interessante acontecendo.  Primeiramente, vamos falar sobr…]]></description>
-      <enclosure url="https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-30/episode-2026-06-30.mp3" length="1072512" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://github.com/Poliester2005/resumoDiario/releases/download/ep-2026-06-30/episode-2026-06-30.mp3</guid>
-      <pubDate>2026-06-30</pubDate>
       <itunes:duration>00:05:00</itunes:duration>
     </item>
   </channel>
